@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "trending",
+    "texture": "a42f08d4-35e2-41c8-b529-8c6abc37d0a4",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      600,
+      750
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      600,
+      750
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

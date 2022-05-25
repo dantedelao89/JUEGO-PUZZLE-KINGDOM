@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fantasy",
+    "texture": "e4a895f0-bf80-44c2-9e98-46b395ad720e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      1000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      1000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

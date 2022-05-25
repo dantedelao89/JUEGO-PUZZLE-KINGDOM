@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "mansions",
+    "texture": "c415e8a0-84f0-40dd-9cfb-f02005a73c28",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      1000
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      1000
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

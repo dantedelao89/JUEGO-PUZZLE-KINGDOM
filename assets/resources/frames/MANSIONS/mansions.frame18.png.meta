@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "c22b9050-c40d-44ba-97a0-3ca3734e0ebc",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 1000,
+  "platformSettings": {},
+  "subMetas": {
+    "mansions.frame18": {
+      "ver": "1.0.6",
+      "uuid": "47e42994-fd9a-4454-9714-9085fbfdbdb8",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "c22b9050-c40d-44ba-97a0-3ca3734e0ebc",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 1000,
+      "rawWidth": 800,
+      "rawHeight": 1000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

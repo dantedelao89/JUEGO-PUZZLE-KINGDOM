@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "b609a3a3-58b2-442f-91ee-34b4bef488d7",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 800,
+  "height": 1000,
+  "platformSettings": {},
+  "subMetas": {
+    "religion.frame7": {
+      "ver": "1.0.6",
+      "uuid": "84d119ab-faa3-4e5f-a77e-3821eeb6ee6a",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "b609a3a3-58b2-442f-91ee-34b4bef488d7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 800,
+      "height": 1000,
+      "rawWidth": 800,
+      "rawHeight": 1000,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

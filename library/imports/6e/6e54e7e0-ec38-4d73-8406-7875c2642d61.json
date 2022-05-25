@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tooltip_bg",
+    "texture": "44d3bbff-c900-4db7-8f80-8dc1c3150c1b",
+    "atlas": "f776e345-9e7f-440a-a67b-363bc2fa08a5",
+    "rect": [
+      1661,
+      912,
+      59,
+      46
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      59,
+      46
+    ],
+    "rotated": 1,
+    "capInsets": [
+      24,
+      0,
+      24,
+      0
+    ]
+  }
+}
