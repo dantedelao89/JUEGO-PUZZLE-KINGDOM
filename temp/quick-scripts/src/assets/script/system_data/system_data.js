@@ -458,6 +458,8 @@ exports.systemData = {
                 { name: 'nature.frame6', x: 213, y: 300, width: 449, height: 533, angle: 355 },
                 { name: 'nature.frame7', x: 240, y: 256, width: 483, height: 587, angle: 0 },
                 { name: 'nature.frame8', x: 61, y: 60, width: 650, height: 814, angle: 0 },
+                { name: 'nature.frame9', x: 142, y: 156, width: 523, height: 523, angle: 0 },
+                { name: 'nature.frame10', x: 194, y: 306, width: 632, height: 632, angle: 0 },
             ],
         },
     ],
